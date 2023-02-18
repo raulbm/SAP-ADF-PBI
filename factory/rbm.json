@@ -1,0 +1,9 @@
+{
+	"name": "rbm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9002bfe-d62f-4eba-b030-043e30b0319c",
+		"tenantId": "54c99288-570f-4357-8ec5-86bd173a4960"
+	}
+}
